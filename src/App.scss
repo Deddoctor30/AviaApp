@@ -1,0 +1,13 @@
+.wrapper {
+}
+.container {
+}
+.fly {
+   margin: 30px 0px 60px 0px;
+   display: flex;
+   justify-content: center;
+   &__loading {
+      font-size: 2rem;
+      margin-top: 40vh;
+   }
+}
